@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John
-- 👀 I’m interested in cars, technology, coding, and cyber secuirty. 
+- 👀 I’m interested in cars, technology, and video games. 
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on learning coding on my own and to get help to code with friends.
 - 📫 How to reach me ...
