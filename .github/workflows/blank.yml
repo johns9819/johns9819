@@ -1,5 +1,7 @@
 # This is the main workflow to help you get started with Actions
-
+"features": {
+  "ghcr.io/devcontainers/features/github-cli:1": {}
+}
 name: CI
 
 # Controls when the workflow will run
